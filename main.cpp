@@ -1,5 +1,5 @@
-//references: Sorting-2.pdf, Sorting-3.pdf
-
+//references: Sorting-2.pdf, Sorting-3.pdf, https://www.asciiart.eu/miscellaneous/money (See “Quarter” by Joan G. Stark), http://www.asciiworld.com/-Eagles-.html
+//IMDB database: https://datasets.imdbws.com
 #include <iostream>
 #include <fstream>
 #include <vector>
